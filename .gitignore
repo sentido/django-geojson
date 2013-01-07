@@ -1,0 +1,12 @@
+# IDE's 
+/.idea/
+/.settings/
+.project
+.pydevproject
+
+# Compiled files
+*.pyo
+*.pyc
+
+# Temp/OS files
+.DS_Store
